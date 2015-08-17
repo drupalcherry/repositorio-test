@@ -90,6 +90,6 @@ Mage::run($mageRunCode, $mageRunType);
  * /
  * 
 /**
- * Y esto es una segunda prueba para la edición del texto
+ * Y esto es una segunda prueba para la edición del texto que acabo de hacer
  * /
  * 
