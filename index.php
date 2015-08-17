@@ -88,3 +88,8 @@ Mage::run($mageRunCode, $mageRunType);
 /**
  * Estoy probando con la edición de archivo en Github
  * /
+ * 
+/**
+ * Y esto es una segunda prueba para la edición del texto que acabo de hacer
+ * /
+ * 
